@@ -1,0 +1,25 @@
+{
+  "name": "ca.tim-cstj.dot-net-sdk-checker",
+  "displayName": "DotNet SDK Checker",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "This Editor script checks if the .NET SDK is correctly installed so that the link between VSCode and Unity works.",
+  "documentationUrl": "https://github.com/JonathanTremblay/UnityDotNetSDKChecker#readme",
+  "changelogUrl": "https://github.com/JonathanTremblay/UnityDotNetSDKChecker#version-history",
+  "licensesUrl": "https://creativecommons.org/share-your-work/public-domain/cc0/",
+  "type": "tool",
+  "keywords": [
+    "DotNet",
+    ".NET",
+    "Check",
+    "Checker",
+    "Tool",
+    "Windows"
+  ],
+  "author": {
+    "name": "Jonathan Tremblay",
+    "email": "jtrembla@cstj.qc.ca",
+    "url": "github.com/JonathanTremblay"
+  },
+  "unityRelease": "5f1"
+}
